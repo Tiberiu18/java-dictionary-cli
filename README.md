@@ -1,4 +1,4 @@
-# Dictionary CLI
+# Java Dictionary CLI
 
 A small Java command line application for translating words and sentences between languages. The project demonstrates basic dictionary management features and works with JSON dictionaries located in the `input-dictionaries` folder.
 
